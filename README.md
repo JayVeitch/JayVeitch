@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jaydonveitch/">Jaydon Veitch's</a> IT and Networking Portfolio 🛜
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about IT and networking, and I love strengthening my skills through hands-on projects that challenge me to think critically and solve real-world problems. From building home labs and configuring networks to troubleshooting systems and improving infrastructure performance, I’m always looking for opportunities to grow and refine my technical abilities. I genuinely enjoy helping people, whether it’s resolving technical issues or designing systems that make their work easier and more efficient. Please feel free to check out my projects and see the work I’ve put into expanding my expertise while supporting others through technology!
 
 
 ## 💻 IT Projects
