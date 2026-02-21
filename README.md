@@ -20,7 +20,7 @@ I’m passionate about IT and networking, and I love strengthening my skills thr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/georgebaidoojr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebaidoojr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaydonveitch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebaidoojr" height="30" width="40" /></a>
 
 
 
